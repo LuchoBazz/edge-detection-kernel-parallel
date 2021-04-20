@@ -1,11 +1,12 @@
-# edge-detection-kernel-parallel
+# Edge detection filter
+
 Edge detection filter (kernel) using parallel computing in C
 
 # Download
 
 * Download branch `develop`
 ```shell
-$ git clone --single-branch --branch=develop https://github.com/lmbaeza/EfectoKernel.git
+$ git clone --single-branch --branch=develop https://github.com/LuisMBaezCo/edge-detection-kernel-parallel.git
 ```
 
 * Give Execution permission
